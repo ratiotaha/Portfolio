@@ -87,13 +87,13 @@ export default function About() {
               <ul className="list-disc">
                 <li>
                   O-levels in pre medical Intermediate in pre medical The City
-                  School
+                  School North Nazimabad Boys Campus
                 </li>{" "}
                 <span>
                   {" "}
                   <li>
-                    North Nazimabad Boys Campus Sultan Muhammad Aga Khan Higer
-                    secondary School
+                    Intermediate from Sultan Muhammad Aga Khan Higher secondary
+                    School
                   </li>
                 </span>
               </ul>
