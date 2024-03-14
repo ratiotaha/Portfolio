@@ -69,6 +69,9 @@ export default function About() {
                   </li>
                 </h2>{" "}
                 <span>coded components of Topic mojo using Tailwind</span>
+
+                <h2>Wordpress developer 2024</h2>
+                
                 <h2>
                   {" "}
                   <li>Marketing Intern </li>

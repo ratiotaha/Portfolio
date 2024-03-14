@@ -47,7 +47,7 @@ const Hero = () => {
             <a
               href="/cv.pdf"
               download="cv.pdf"
-              className="px-7 py-4 rounded-[10px] mb-10 hover:bg-blue-500 bg-[white] text-[black]"
+              className="px-10 py-4 rounded-[10px] mb-10 hover:bg-blue-500 bg-[white] text-[black]"
             >
               {" "}
               My CV
